@@ -1,4 +1,5 @@
 # FreeTubeMOD23
+![icon](FreeTubeMOD.jpg)
 
 Since no one wanted to add certain features to FreeTube or fix it, I decided to do it myself.
 With the help of AI, after a few weeks of struggle, I managed to put something together.
