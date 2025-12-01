@@ -3,6 +3,9 @@
 <BR>
 DOWNLOAD: https://github.com/marek7400/FreeTubeMOD23/releases/tag/FreeTubeMOD23
 
+Virustotal Analysis:
+https://www.virustotal.com/gui/file/4c3b60ace0686740cf9c6de2beaa77c4c6d5c185b0071165f1f66adcbb7dfb88?nocache=1
+
 Since no one wanted to add certain features to FreeTube or fix it, I decided to do it myself.
 With the help of AI, after a few weeks of struggle, I managed to put something together.
 
