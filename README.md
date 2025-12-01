@@ -1,4 +1,4 @@
-# FreeTubeMOD23
+# FreeTubeMOD23.12
 ![icon](FreeTubeMOD.jpg)
 
 Since no one wanted to add certain features to FreeTube or fix it, I decided to do it myself.
