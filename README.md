@@ -1,7 +1,9 @@
 # FreeTubeMOD23.12
 ![icon](FreeTubeMOD.jpg)
 <BR>
-DOWNLOAD: https://github.com/marek7400/FreeTubeMOD23/releases/tag/FreeTubeMOD23
+DOWNLOAD exe: https://github.com/marek7400/FreeTubeMOD23/releases/tag/FreeTubeMOD23
+
+DOWNLOAD code: https://github.com/marek7400/FreeTubeMOD23/blob/main/FreeTubeMOD23.12-source_code.zip
 
 Virustotal Analysis:
 https://www.virustotal.com/gui/file/4c3b60ace0686740cf9c6de2beaa77c4c6d5c185b0071165f1f66adcbb7dfb88?nocache=1
