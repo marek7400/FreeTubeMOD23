@@ -32,7 +32,10 @@ FreetubeMOD21 changes:
 -configurable subtitles (including separate settings for full screen)
 
 -when hovering over the control bar, the controls and mouse pointer do not disappear
+
 -when the “Load with subtitles by default” option is enabled, subtitles are automatically disabled if the movie has audio in the same language as the system language
+
+-disabling automatic translation of movie titles into English in the “Subscriptions” tab
 
 -ability to switch audio tracks to other languages if available 
 (requires downloading and entering the track into the yt-dlp.exe file)
@@ -64,6 +67,8 @@ FreetubeMOD23.12 zmiany:
 -po najechaniu na pasek kontrolek nie znikają kontrolki ani wskaźnik myszki
 
 -po włączeniu opcji "Domyślnie ładuj z napisami" napisy wyłączają się automatycznie jeśli film ma audio takie same jak język systemu
+
+-wyłączenie automatycznego tłumaczenia tytułów filmów na angielski w zakładce "Subskrypcje"
 
 -możliwość przełączania ścieżek audio na inne języki jeśli są dostępne 
 (konieczne ściągnięcie i wpisanie ścieżki do pliku yt-dlp.exe)
