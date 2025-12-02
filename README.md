@@ -41,7 +41,7 @@ FreetubeMOD21 changes:
 Jako, że nikt nie chciał dodać pewnych rzeczy do FreeTube lub naprawić postanowiłem zrobić to sam.
 Dzięki pomocy AI po kilku tygodniach walki udało się coś sklecić.
 
-FreetubeMOD21 zmiany:
+FreetubeMOD23.12 zmiany:
 
 -dodanie konfigurowalnego paska postępu 
 (ze znacznikami rozdziałów i miniaturkami filmu)
