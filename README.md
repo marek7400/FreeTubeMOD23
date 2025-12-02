@@ -11,7 +11,7 @@ https://www.virustotal.com/gui/file/4c3b60ace0686740cf9c6de2beaa77c4c6d5c185b007
 Since no one wanted to add certain features to FreeTube or fix it, I decided to do it myself.
 With the help of AI, after a few weeks of struggle, I managed to put something together.
 
-FreetubeMOD21 changes:
+FreetubeMOD23.12 changes:
 
 -addition of a configurable progress bar 
 (with chapter markers and movie thumbnails)
